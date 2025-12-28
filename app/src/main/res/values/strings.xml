@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameS</string>
+    <string name="best_seller_product">best_seller_product</string>
+    <string name="sell_all">sell_all</string>
+    <string name="total_tax" />
+    <string name="total" />
+    <string name="payment_method" />
+    <string name="fee_delivery" />
+    <string name="subtotal" />
+    <string name="my_cart" />
+</resources>

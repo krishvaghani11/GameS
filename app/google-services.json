@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881583769618",
+    "project_id": "games-b9198",
+    "storage_bucket": "games-b9198.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881583769618:android:155067c8017d90f2c830cb",
+        "android_client_info": {
+          "package_name": "com.example.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2QdD5O6LjfXDzyWKl1EqkuDZVc4hCOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
